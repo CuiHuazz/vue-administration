@@ -1,5 +1,5 @@
 # 基于vue框架的后台管理系统模板
-线上地址:http://bystander.top/train/one/
+线上地址:http://bystander.top/train/administration
 ## Project setup
 ```
 npm install
