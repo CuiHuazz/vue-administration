@@ -1,19 +1,16 @@
-# demo1
-
+# 基于vue框架的后台管理系统模板
+线上地址:http://bystander.top/train/one/
 ## Project setup
 ```
-yarn install
+npm install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-yarn serve
+npm run serve
 ```
 
 ### Compiles and minifies for production
 ```
-yarn build
+npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
